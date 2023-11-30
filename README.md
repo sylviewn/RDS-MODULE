@@ -1,4 +1,4 @@
-## MY TF MODULE TO PROVISION AN AWS RDS ------->
+clear## MY TF MODULE TO PROVISION AN AWS RDS ------->
 
 ## Sample usage:
 *************
