@@ -1,5 +1,7 @@
 MY TF MODULE TO PROVISION AN AWS RDS ------->
+
 Sample usage:
+
 
 module "aws_rds_private" {
   source         = "./modules"
